@@ -1,0 +1,23 @@
+@import '~@angular/material/prebuilt-themes/pink-bluegrey.css';
+
+// some basic resets 
+
+body { 
+  padding: 0; 
+  margin: 0; 
+  font-family: Roboto, sans-serif; 
+}
+
+.container {
+  margin: 10px;
+  display:flex;
+  padding-left: 20px; 
+}
+
+a{
+  text-decoration: none;
+  color:white;
+}
+
+
+
